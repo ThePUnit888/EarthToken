@@ -1,0 +1,4 @@
+EarthToken
+==========
+
+Scrypt Coin
